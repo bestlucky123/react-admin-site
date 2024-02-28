@@ -12,7 +12,7 @@ IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on M
 # Starter Mern Antd Admin App , MERN Admin dashboard ,Antd Admin Template free
 
 ```
-Don't forget please to ⭐ this repo if you like this Starter Antd Admin!
+Please ⭐ this repo if you like this Starter Antd Admin!
 ```
 
 ## Our Sponsors
